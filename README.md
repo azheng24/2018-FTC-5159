@@ -1,6 +1,6 @@
 # ftc5159-18
 
-FTC team 5159 in season 2018-2019 includes eight 7th graders in Punahou School in Hawaii.  As a rookie team, we managed to be #3 in the state championship tournation.
+FTC team 5159 in season 2018-2019 includes eight 7th graders in Punahou School in Hawaii.  As a rookie team, we managed to be #3 in the state championship tournament.
 
 Since it's the first time the team used java, the code could use lots of improvements.  I am sure that we will be embarassed when we look at this code again next year.
 
